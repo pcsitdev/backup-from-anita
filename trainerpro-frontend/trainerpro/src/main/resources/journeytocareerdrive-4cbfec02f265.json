@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "journeytocareerdrive",
+  "private_key_id": "4cbfec02f2657a41eabec8a133c51ace46f4f9bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDW3DpfDmMUqXM3\nhSjtvHpJwufpXccMxQtZDVykUPEk6rWnM1X+V4UyjhbjNfPcSjWY+fkq8SnMNXFQ\nQ4DeLLaC8t3r6S8ORZtErM49+LXbLdWIic8kT8dy3TOV3kugAu3DHt5j6mrdM1k2\nWmfKg2tf26WyLHoptljvoP8eAlNAwFkx42X1FA3+0FSdh8yKCxSfPmJL0PevSQMB\nor9JWFX7aCn9hqtIyFM8EkgcEjGSG5ofG8Zi6gChGM8fx4ZJgrWFBs6oWilI3El6\nfblc+WdK3PwAMFAi0omJHNNcDV/fEbfi//DoAzl3/HaKwAJ8uqKmWhAU7SvtWYre\nvCo1T6APAgMBAAECggEAE8VPD7kkr92JzxWPNxUNUaVALs6kxs2I5khe+nXCQsng\nLkMAijdmd8jwXTb1OhOQDAQQg/2OAY73XtHfVVJa9wC/H/qkjFUmXPLjxXsRzNnS\nWM6Jg4ddzHmDSiqa3d33H+nCwAHtlG4pquE1xMJECp2NCTCjixwO4fn4D7xaCc6e\nBi5E7kT7AY3QH8T6PqRn9QJPtnJhsGPJ7IMN9EmmV3qbwx/Qrad/gcyMPtLiIiIF\nCBLIff8u4TXZkfmH2CgvjkBJv9X2ezkNb4mkvXWomr6fZIFtCeEj/2eMq7U+L1CE\nFUKPNhdUAhrBMvSTy0CEy6dpieUSiQwyteYDZBUMhQKBgQD6HF9Ztb28JOIAEm2x\nsoz7mThLgycvT5+h1iwZLQGx9fUnHcW77Z/TacGb8RI1IBk+DTmltqZnZO10j5P1\nG367woyOMwKJq9clKfzHvfHimfjjILqn16XuH+KB1R8chKZsmzrb1KuSurp8ngrF\nlV4ybGwKsUBBEeboB7U+S+Ij9QKBgQDb617w6Euhsy5WrwLXVvzEVm+BnynZ6mRc\nw2rT5pHq+PMYtIOfgd2sO9h+AhJj8JzJ+KIGJoPf20llpoFNZiJh9UFjiewErlau\n6am/oYRdFqLYJq27rkSpJFlpGPyS1wvebLIxYkcyiGqcLycvyy6BKCe+/iZEJcT1\nZx31xxD1cwKBgQC274+ybyLi/VssUE5Zfc5urGgnmztK+IM6/QruMyQdRVhVjwo0\n5Z5UJPNOmyoFH4A3CbdThN/7mi+wZOAElGLC9I6X56mAhubrMOXKNx038ATCJAtC\nfpHINRwYeIiz9DZCE9weNFR2EwwZ4ALi99iZKwJvY6wqq+xnZFPlx90VDQKBgGg4\nSQv96im9Uo597ejDLpKVK87P8PN2ow1bBrtZH3mtdPcWRPJIhxbiXZyJutFl68fD\nbnVft0tVDpl/qPNXHaAyrERRzmoBfM7zqSBJmQLMgWvSGK9CzQMjWMP3tWqZQuSr\nul6w5nDKOUu/BOEfdvB6aSuYIeZVx9tMfORG7ICFAoGBAMjZlRt0kKeKzcolfIkX\nnffXoZc9I2CCx+nEJXgImuvyZdpNBmuXpTIoMZZZgcNxKZAA8A8KfFj2PR9yvacn\nDkMV05kVvln9+UG8ahCz5/9gjKYubCIgAnPTH8uaeTbd0FuA3gTsKkiCiAGlNdVj\n2hRh35U0o9BIp/CFI2akwWHi\n-----END PRIVATE KEY-----\n",
+  "client_email": "driveuploader@journeytocareerdrive.iam.gserviceaccount.com",
+  "client_id": "115958591628096665557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/driveuploader%40journeytocareerdrive.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

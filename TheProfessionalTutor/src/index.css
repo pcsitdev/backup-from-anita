@@ -1,0 +1,61 @@
+:root {
+  color: #254043;
+  background:
+    radial-gradient(circle at top, rgba(255, 233, 206, 0.85), transparent 32%),
+    linear-gradient(180deg, #f9f5ed 0%, #f4efe5 100%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --accent: #b55b17;
+  --heading: #173538;
+  --text: #486467;
+  --border: rgba(23, 53, 56, 0.08);
+  --card-bg: rgba(255, 251, 245, 0.84);
+  --hero-bg: linear-gradient(160deg, rgba(255, 248, 237, 0.96), rgba(241, 236, 226, 0.9));
+  --shadow: 0 24px 60px rgba(38, 56, 58, 0.08);
+  --heading-font: Georgia, 'Times New Roman', serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.26) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.18) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.75), transparent 75%);
+}
+
+a {
+  color: inherit;
+}
+
+p {
+  margin: 0;
+  line-height: 1.65;
+}
+
+#root {
+  width: min(1200px, calc(100% - 24px));
+  margin: 0 auto;
+  padding: 24px 0 40px;
+}
